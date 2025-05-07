@@ -1,0 +1,21 @@
+Restaurant_ID,Name,Cuisine,Rating,Price_Range,Customer_Count,Revenue,Delivery_Time,Location
+1,The Spice House,Indian,4.5,Medium,200,4500,30,Urban
+2,Bella Italia,Italian,4.2,High,120,6000,40,Urban
+3,Golden Dragon,Chinese,4.7,High,180,7200,25,Urban
+4,The Burger Hub,American,3.8,Medium,250,5000,20,Suburban
+5,Fiesta Mexicana,Mexican,4.1,Low,300,3500,35,Suburban
+6,Sushi Delight,Japanese,4.6,High,90,5400,50,Urban
+7,Curry Pot,Indian,4,Medium,220,4400,28,Rural
+8,Pasta Heaven,Italian,3.5,Low,280,3200,38,Suburban
+9,Dragon Wok,Chinese,4.8,High,150,7000,22,Urban
+10,Bistro 24,Continental,4.3,Medium,210,4800,32,Urban
+11,Green Vegan,Vegan,4.2,Medium,170,4200,26,Suburban
+12,Taco Fiesta,Mexican,3.7,Low,260,3600,34,Rural
+13,The Grill House,American,4.5,High,140,6800,27,Urban
+14,Royal Dine,Indian,4.9,High,200,7500,24,Urban
+15,Casual Bites,Fast Food,3.6,Low,350,3000,15,Suburban
+16,Zen Garden,Japanese,4.4,Medium,130,5200,45,Urban
+17,Desert Rose,Mediterranean,3.9,Medium,160,4100,33,Suburban
+18,Café Aroma,Coffee,4,Low,310,3300,29,Rural
+19,The Greek Table,Greek,4.3,Medium,150,4600,31,Urban
+20,Flavors of India,Indian,4.1,High,190,7000,23,Urban

@@ -1,0 +1,11 @@
+ID,Name,Age,Department,Marks,Graduated
+1,Alice,21,Computer Science,85,Yes
+2,Bob,22,Mechanical,78,No
+3,Charlie,20,Electrical,92,Yes
+4,David,,Civil,74,No
+5,Eva,21,IT,88,Yes
+6,Frank,22,Electronics,81,Yes
+7,Grace,20,Biotechnology,90,Yes
+8,Hank,-5,Aerospace,76,No
+9,Ivy,21,Physics,87,Yes
+10,Jack,22,Chemistry,79,No

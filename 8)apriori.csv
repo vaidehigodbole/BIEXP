@@ -1,0 +1,21 @@
+Transaction_ID,Items _Bought
+1,Bread; Milk
+2,Bread; Butter
+3,Milk; Butter
+4,Bread; Milk; Butter
+5,Sugar; Tea; Coffee
+6,Bread; Butter
+7,Milk; Sugar
+8,Tea; Coffee
+9,Bread; Milk; Butter; Sugar
+10,Bread; Sugar
+11,Milk; Butter
+12,Tea; Sugar
+13,Tea; Coffee; Sugar
+14,Bread; Butter
+15,Milk; Bread
+16,Tea; Sugar; Milk
+17,Coffee; Sugar
+18,Bread; Butter; Milk
+19,Bread; Tea; Coffee
+20,Sugar; Coffee; Butter
